@@ -6,3 +6,10 @@
 [Percolation.html](http://coursera.cs.princeton.edu/algs4/assignments/percolation.html)
 
 Score - 92/100
+
+## Assignment - 2
+**Deque and Randomized Queues** - Implementation of a generic double-ended queue and randomized queue.
+
+[Queues.html](http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
+
+Score - 99/100
