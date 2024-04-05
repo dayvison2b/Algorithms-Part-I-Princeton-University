@@ -13,3 +13,10 @@ Score - 92/100
 [Queues.html](http://coursera.cs.princeton.edu/algs4/assignments/queues.html)
 
 Score - 99/100
+
+## Assignment - 3
+**Collinear Points** - Write a program to recognize line patterns in a given set of points.
+
+[Collinear.html](http://coursera.cs.princeton.edu/algs4/assignments/collinear.html)
+
+Score - 99/100
